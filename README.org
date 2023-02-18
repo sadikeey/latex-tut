@@ -1,0 +1,10 @@
+#+title: LaTeX Help Guide
+#+author: Sadik Saifi
+#+description: It indented to help about creating latex documents.
+
+* Templates
+
+- [[https://latextemplates.com/cat/curricula-vitae][Resume]]
+- [[https://www.latextemplates.com/cat/assignments][Assignments]]
+- [[https://www.latextemplates.com/cat/laboratory-reports][Lab Work]]
+- [[https://www.latextemplates.com/cat/presentations][Presentation]]
